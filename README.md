@@ -2,6 +2,8 @@
 
 This project demonstrates **UART communication** between an **STM32F103C8T6 Blue Pill** board and an **STM32F746 Discovery** board.  
 
+ **This Code is Related to STM32F103C8T6 BluePill Board**
+
 - The **STM32F7 Discovery** board hosts a **GUI (HMI)** that sends commands via UART.  
 - The **STM32F1 Blue Pill** board receives the commands and:  
   - Plays sound through a buzzer 🎶  
