@@ -1,4 +1,5 @@
 # STM32 UART Communication Project 🎵💡
+![imageBreadboard](https://github.com/user-attachments/assets/d712668e-eccf-4565-b22a-25f33acc7566)
 
 This project demonstrates **UART communication** between an **STM32F103C8T6 Blue Pill** board and an **STM32F746 Discovery** board.  
 
